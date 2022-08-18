@@ -1,0 +1,888 @@
+fileFormatVersion: 2
+guid: 45eaa4af58ef41f4dbddaf01e0eff3f2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6653333288939350550
+    second: Outfits - Male_1_0
+  - first:
+      213: 2463577846731911450
+    second: Outfits - Male_1_1
+  - first:
+      213: 419601838055334572
+    second: Outfits - Male_1_2
+  - first:
+      213: 2357288319082474343
+    second: Outfits - Male_1_3
+  - first:
+      213: -6211228826330093460
+    second: Outfits - Male_1_4
+  - first:
+      213: -9165676439539417956
+    second: Outfits - Male_1_5
+  - first:
+      213: -4664876861510774571
+    second: Outfits - Male_1_6
+  - first:
+      213: -6336830521532515295
+    second: Outfits - Male_1_7
+  - first:
+      213: -8865468826323593166
+    second: Outfits - Male_1_8
+  - first:
+      213: 8243571085334915487
+    second: Outfits - Male_1_9
+  - first:
+      213: -2775020213034619832
+    second: Outfits - Male_1_10
+  - first:
+      213: -395828632961048773
+    second: Outfits - Male_1_11
+  - first:
+      213: -188685556086270580
+    second: Outfits - Male_1_12
+  - first:
+      213: 4167820229946879429
+    second: Outfits - Male_1_13
+  - first:
+      213: 5706362421441764958
+    second: Outfits - Male_1_14
+  - first:
+      213: -2295617279397889642
+    second: Outfits - Male_1_15
+  - first:
+      213: -3109580676686283341
+    second: Outfits - Male_1_16
+  - first:
+      213: 1414306163666003228
+    second: Outfits - Male_1_17
+  - first:
+      213: -3290277509967392267
+    second: Outfits - Male_1_18
+  - first:
+      213: -7307596528034985411
+    second: Outfits - Male_1_19
+  - first:
+      213: -2197180670916049808
+    second: Outfits - Male_1_20
+  - first:
+      213: 4875444400050402019
+    second: Outfits - Male_1_21
+  - first:
+      213: -8822973245719419725
+    second: Outfits - Male_1_22
+  - first:
+      213: -8500154282676895241
+    second: Outfits - Male_1_23
+  - first:
+      213: 3308275559021768884
+    second: Outfits - Male_1_24
+  - first:
+      213: 8282880611625659684
+    second: Outfits - Male_1_25
+  - first:
+      213: 6336722873759959536
+    second: Outfits - Male_1_26
+  - first:
+      213: -3695349131341332629
+    second: Outfits - Male_1_27
+  - first:
+      213: 3628787108701270423
+    second: Outfits - Male_1_28
+  - first:
+      213: 7502159245113733451
+    second: Outfits - Male_1_29
+  - first:
+      213: 6634333883249433356
+    second: Outfits - Male_1_30
+  - first:
+      213: -1880881591051020703
+    second: Outfits - Male_1_31
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Outfits - Male_1_0
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 400
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ae28b1063655c50800000000000000
+      internalID: 6653333288939350550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outfits - Male_1_1
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 400
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a113afebff2603220800000000000000
+      internalID: 2463577846731911450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outfits - Male_1_2
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 384
+        width: 88
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca2a36806a9b2d500800000000000000
+      internalID: 419601838055334572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outfits - Male_1_3
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 400
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ba61c9c35c6b020800000000000000
+      internalID: 2357288319082474343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outfits - Male_1_4
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 344
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c68adeb7a484dc9a0800000000000000
+      internalID: -6211228826330093460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outfits - Male_1_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 344
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9cf51f07d9fcc080800000000000000
+      internalID: -9165676439539417956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outfits - Male_1_6
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 344
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d016b4c537034fb0800000000000000
+      internalID: -4664876861510774571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outfits - Male_1_7
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 344
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c7332f63e0f08a0800000000000000
+      internalID: -6336830521532515295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outfits - Male_1_8
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 344
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 238deafd21787f480800000000000000
+      internalID: -8865468826323593166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outfits - Male_1_9
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 344
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f99a11ec93c076270800000000000000
+      internalID: 8243571085334915487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outfits - Male_1_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 88
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84cea85a1d52d79d0800000000000000
+      internalID: -2775020213034619832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outfits - Male_1_11
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f9d6c94fbb18af0800000000000000
+      internalID: -395828632961048773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outfits - Male_1_12
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 256
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c851b378c77a16df0800000000000000
+      internalID: -188685556086270580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outfits - Male_1_13
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 256
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cdaba5ca6217d930800000000000000
+      internalID: 4167820229946879429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outfits - Male_1_14
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 200
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e9ca18362113f40800000000000000
+      internalID: 5706362421441764958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outfits - Male_1_15
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 200
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6997d314f345420e0800000000000000
+      internalID: -2295617279397889642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outfits - Male_1_16
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 200
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bdf1bd89dc88d4d0800000000000000
+      internalID: -3109580676686283341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outfits - Male_1_17
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 200
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1525f866ff90a310800000000000000
+      internalID: 1414306163666003228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outfits - Male_1_18
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 200
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f1dfed89069652d0800000000000000
+      internalID: -3290277509967392267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outfits - Male_1_19
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 200
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3ac890dca3369a90800000000000000
+      internalID: -7307596528034985411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outfits - Male_1_20
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 112
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 074c1ba22db0281e0800000000000000
+      internalID: -2197180670916049808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outfits - Male_1_21
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 112
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e2fb23c9de09a340800000000000000
+      internalID: 4875444400050402019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outfits - Male_1_22
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 112
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b46e1244908e8580800000000000000
+      internalID: -8822973245719419725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outfits - Male_1_23
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 112
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f1470537b2690a80800000000000000
+      internalID: -8500154282676895241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outfits - Male_1_24
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 56
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0799ac71b59ed20800000000000000
+      internalID: 3308275559021768884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outfits - Male_1_25
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 56
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42deaec1804b2f270800000000000000
+      internalID: 8282880611625659684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outfits - Male_1_26
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 56
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f90e8a51ef80f750800000000000000
+      internalID: 6336722873759959536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outfits - Male_1_27
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 56
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ff9593b8b77bcc0800000000000000
+      internalID: -3695349131341332629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outfits - Male_1_28
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 56
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 791f7a336aa0c5230800000000000000
+      internalID: 3628787108701270423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outfits - Male_1_29
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 56
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b41ba65d5160d1860800000000000000
+      internalID: 7502159245113733451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outfits - Male_1_30
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 56
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0b9b604483e11c50800000000000000
+      internalID: 6634333883249433356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outfits - Male_1_31
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 56
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16615d48824c5e5e0800000000000000
+      internalID: -1880881591051020703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

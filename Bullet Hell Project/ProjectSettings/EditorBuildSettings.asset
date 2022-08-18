@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 9eda34cba66dbeb49bc42f80a7c7f104
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Base.unity
+    guid: b7f075374616672488756edd65d4a7ee
+  - enabled: 1
+    path: Assets/Scenes/Mission 1.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Boss1.unity
+    guid: b59667f0d83c94e4aafd6fd14e0d7986
+  - enabled: 1
+    path: Assets/Scenes/Stage3.unity
+    guid: 8ada1998e37b6e84c9bc98a344c4058d
+  - enabled: 1
+    path: Assets/Scenes/Survival1.unity
+    guid: 0c05219fb45f7834eaac4595ad63472f
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/S2.unity
+    guid: 7d317c40c03f15c4e9478423a43d47fb
+  - enabled: 1
+    path: Assets/Scenes/S3.unity
+    guid: 9bb83f309c6be10429763ea148b6fac8
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: de096b80d68a3a44785ad6a7960cae5d, type: 2}

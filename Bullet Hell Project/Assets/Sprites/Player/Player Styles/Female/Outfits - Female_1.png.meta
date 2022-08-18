@@ -1,0 +1,984 @@
+fileFormatVersion: 2
+guid: cf33292b93caa9b40a96b517cdadeb89
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4318133603160552136
+    second: Outfits - Female_1_0
+  - first:
+      213: -5947998631687057960
+    second: Outfits - Female_1_1
+  - first:
+      213: -1061064250533156710
+    second: Outfits - Female_1_2
+  - first:
+      213: -1572138170251111567
+    second: Outfits - Female_1_3
+  - first:
+      213: -1629007037633600391
+    second: Outfits - Female_1_4
+  - first:
+      213: 8074690900450311674
+    second: Outfits - Female_1_5
+  - first:
+      213: 3720590892592500166
+    second: Outfits - Female_1_6
+  - first:
+      213: -8160625106413645520
+    second: Outfits - Female_1_7
+  - first:
+      213: -3211857965722282816
+    second: Outfits - Female_1_8
+  - first:
+      213: 6959030873297706612
+    second: Outfits - Female_1_9
+  - first:
+      213: -7017377812647278095
+    second: Outfits - Female_1_10
+  - first:
+      213: -1576009307957330250
+    second: Outfits - Female_1_11
+  - first:
+      213: 8935840429912023763
+    second: Outfits - Female_1_12
+  - first:
+      213: -6618490646565203806
+    second: Outfits - Female_1_13
+  - first:
+      213: 8919289846502212277
+    second: Outfits - Female_1_14
+  - first:
+      213: -5441016048549104022
+    second: Outfits - Female_1_15
+  - first:
+      213: 6358933896022077846
+    second: Outfits - Female_1_16
+  - first:
+      213: -4939270715768369273
+    second: Outfits - Female_1_17
+  - first:
+      213: 8383546033956949605
+    second: Outfits - Female_1_18
+  - first:
+      213: -1278435358673054179
+    second: Outfits - Female_1_19
+  - first:
+      213: -5319546057432463875
+    second: Outfits - Female_1_20
+  - first:
+      213: -1982296194456075351
+    second: Outfits - Female_1_21
+  - first:
+      213: -5145090608288565664
+    second: Outfits - Female_1_22
+  - first:
+      213: -2579302961423751013
+    second: Outfits - Female_1_23
+  - first:
+      213: 268946994950575152
+    second: Outfits - Female_1_24
+  - first:
+      213: -663269270383781351
+    second: Outfits - Female_1_25
+  - first:
+      213: -9014512140881901961
+    second: Outfits - Female_1_26
+  - first:
+      213: -4721979165668146907
+    second: Outfits - Female_1_27
+  - first:
+      213: 8458852665169728695
+    second: Outfits - Female_1_28
+  - first:
+      213: 6731858139481994889
+    second: Outfits - Female_1_29
+  - first:
+      213: -8958634635994308552
+    second: Outfits - Female_1_30
+  - first:
+      213: -8229958744081570303
+    second: Outfits - Female_1_31
+  - first:
+      213: -2978573413477872596
+    second: Outfits - Female_1_32
+  - first:
+      213: 2783220636835230688
+    second: Outfits - Female_1_33
+  - first:
+      213: -5637278765390623433
+    second: Outfits - Female_1_34
+  - first:
+      213: -1141191881477730321
+    second: Outfits - Female_1_35
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Outfits - Female_1_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 400
+        width: 88
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2ff0532a71deb30800000000000000
+      internalID: 4318133603160552136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outfits - Female_1_1
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 400
+        width: 88
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dd88c122c6747da0800000000000000
+      internalID: -5947998631687057960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outfits - Female_1_2
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 400
+        width: 88
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a98ea179fa75641f0800000000000000
+      internalID: -1061064250533156710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outfits - Female_1_3
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 400
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1739958e9a4ae2ae0800000000000000
+      internalID: -1572138170251111567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outfits - Female_1_4
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 344
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 974ec39eaba9469e0800000000000000
+      internalID: -1629007037633600391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outfits - Female_1_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 344
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd7b68a7901f0070800000000000000
+      internalID: 8074690900450311674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outfits - Female_1_6
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 344
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd878b44b132a330800000000000000
+      internalID: 3720590892592500166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outfits - Female_1_7
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 344
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 031941bd3b2afbe80800000000000000
+      internalID: -8160625106413645520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outfits - Female_1_8
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 344
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c45d1482303d63d0800000000000000
+      internalID: -3211857965722282816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outfits - Female_1_9
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 344
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ed2ef65b1739060800000000000000
+      internalID: 6959030873297706612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outfits - Female_1_10
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 344
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f9837e1f044d9e90800000000000000
+      internalID: -7017377812647278095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outfits - Female_1_11
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 344
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6be7e7c62e3e02ae0800000000000000
+      internalID: -1576009307957330250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outfits - Female_1_12
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 88
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d2ea72e68b720c70800000000000000
+      internalID: 8935840429912023763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outfits - Female_1_13
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 256
+        width: 88
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a05c3eb2d56624a0800000000000000
+      internalID: -6618490646565203806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outfits - Female_1_14
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 256
+        width: 88
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b24385ebdea7cb70800000000000000
+      internalID: 8919289846502212277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outfits - Female_1_15
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 256
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a66f7094bb0ad74b0800000000000000
+      internalID: -5441016048549104022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outfits - Female_1_16
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 200
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6913696ffa87f3850800000000000000
+      internalID: 6358933896022077846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outfits - Female_1_17
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 200
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f0321147f247bb0800000000000000
+      internalID: -4939270715768369273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outfits - Female_1_18
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 200
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e832033b6585470800000000000000
+      internalID: 8383546033956949605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outfits - Female_1_19
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 200
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d165ef190d5124ee0800000000000000
+      internalID: -1278435358673054179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outfits - Female_1_20
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 200
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df588608b0d2d26b0800000000000000
+      internalID: -5319546057432463875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outfits - Female_1_21
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 200
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a346d12d187d74e0800000000000000
+      internalID: -1982296194456075351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outfits - Female_1_22
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 200
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 066f2c30a57f898b0800000000000000
+      internalID: -5145090608288565664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outfits - Female_1_23
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 200
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9869305f99743cd0800000000000000
+      internalID: -2579302961423751013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outfits - Female_1_24
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 88
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0341071fddd7bb300800000000000000
+      internalID: 268946994950575152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outfits - Female_1_25
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 112
+        width: 88
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91a975cdc189bc6f0800000000000000
+      internalID: -663269270383781351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outfits - Female_1_26
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 112
+        width: 88
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 776c94308f406e280800000000000000
+      internalID: -9014512140881901961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outfits - Female_1_27
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 112
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5210e8987f8287eb0800000000000000
+      internalID: -4721979165668146907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outfits - Female_1_28
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 56
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b4deca9ea1e36570800000000000000
+      internalID: 8458852665169728695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outfits - Female_1_29
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 56
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 986752a9f4d5c6d50800000000000000
+      internalID: 6731858139481994889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outfits - Female_1_30
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 56
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8306c0173498ca380800000000000000
+      internalID: -8958634635994308552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outfits - Female_1_31
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 56
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 106e5ee502059cd80800000000000000
+      internalID: -8229958744081570303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outfits - Female_1_32
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 56
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c8a38f24bf9a6d0800000000000000
+      internalID: -2978573413477872596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outfits - Female_1_33
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 56
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e3b91e4c6cff9620800000000000000
+      internalID: 2783220636835230688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outfits - Female_1_34
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 56
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d0a0994dc54c1b0800000000000000
+      internalID: -5637278765390623433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outfits - Female_1_35
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 56
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fefc5f3b70ca920f0800000000000000
+      internalID: -1141191881477730321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Aim1
+  - Gun
+  - PlayerFullBody
+  - PlayerHead
+  - PlayerHair
+  - PlayerBody
+  - PlayerOutfit
+  - PlayerBottom
+  - PlayerLeg1
+  - PlayerLeg2
+  - PlayerPants1
+  - PlayerPants2
+  - GunEndpoint
+  - Aim
+  - Bullet
+  - Walls
+  - SlimeProjectile
+  - HpUp
+  - Enemy
+  - Breakable
+  - Shield
+  - EnemiesKilled
+  - Flashlight
+  - SurvivalSp
+  - SoundEffects
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - Walls
+  - Post Processing
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

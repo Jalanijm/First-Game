@@ -11111,11 +11111,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3830117140166467831, guid: b6a77c2350b16d449847158f21ca4571, type: 3}
       propertyPath: speed
-      value: 17000
+      value: 20000
       objectReference: {fileID: 0}
     - target: {fileID: 3830117140166467831, guid: b6a77c2350b16d449847158f21ca4571, type: 3}
       propertyPath: Hitpoints
-      value: 55
+      value: 70
       objectReference: {fileID: 0}
     - target: {fileID: 3830117140166467831, guid: b6a77c2350b16d449847158f21ca4571, type: 3}
       propertyPath: projectile
@@ -11123,7 +11123,7 @@ PrefabInstance:
       objectReference: {fileID: 8740168504523142692, guid: db408c440eadd0a4880de6c95dee8edd, type: 3}
     - target: {fileID: 3830117140166467831, guid: b6a77c2350b16d449847158f21ca4571, type: 3}
       propertyPath: MaxHitpoints
-      value: 55
+      value: 70
       objectReference: {fileID: 0}
     - target: {fileID: 3830117140166467831, guid: b6a77c2350b16d449847158f21ca4571, type: 3}
       propertyPath: startTimeBtwShots
@@ -16866,7 +16866,7 @@ MonoBehaviour:
   m_BlendStyleIndex: 0
   m_FalloffIntensity: 1
   m_Color: {r: 0.41568628, g: 0.023192747, b: 0, a: 1}
-  m_Intensity: 2
+  m_Intensity: 1.5
   m_LightVolumeOpacity: 1
   m_ApplyToSortingLayers: 00000000
   m_LightCookieSprite: {fileID: 0}
@@ -16878,7 +16878,7 @@ MonoBehaviour:
   m_PointLightInnerAngle: 360
   m_PointLightOuterAngle: 360
   m_PointLightInnerRadius: 0
-  m_PointLightOuterRadius: 1
+  m_PointLightOuterRadius: 0.65
   m_PointLightDistance: 3
   m_PointLightQuality: 1
   m_ShapeLightParametricSides: 5
@@ -29431,7 +29431,7 @@ MonoBehaviour:
   m_BlendStyleIndex: 0
   m_FalloffIntensity: 1
   m_Color: {r: 0.41509432, g: 0, b: 0, a: 1}
-  m_Intensity: 2
+  m_Intensity: 1.5
   m_LightVolumeOpacity: 1
   m_ApplyToSortingLayers: 00000000
   m_LightCookieSprite: {fileID: 0}
@@ -29443,7 +29443,7 @@ MonoBehaviour:
   m_PointLightInnerAngle: 360
   m_PointLightOuterAngle: 360
   m_PointLightInnerRadius: 0
-  m_PointLightOuterRadius: 1
+  m_PointLightOuterRadius: 0.65
   m_PointLightDistance: 3
   m_PointLightQuality: 1
   m_ShapeLightParametricSides: 5
@@ -33709,7 +33709,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: add79767c2d25604f8a933435291c644, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  EnemyType: {fileID: 2996694130384653242, guid: bc6f13b248752f848915b742a318e9f5, type: 3}
+  EnemyType: {fileID: 8740168504523142692, guid: db408c440eadd0a4880de6c95dee8edd, type: 3}
   Animation: {fileID: 856857374149350888}
   StartUpTime: 37
 --- !u!1 &856857374149350893
@@ -34392,7 +34392,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: add79767c2d25604f8a933435291c644, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  EnemyType: {fileID: 2996694130384653242, guid: bc6f13b248752f848915b742a318e9f5, type: 3}
+  EnemyType: {fileID: 8740168504523142692, guid: db408c440eadd0a4880de6c95dee8edd, type: 3}
   Animation: {fileID: 4464801575405713250}
   StartUpTime: 40
 --- !u!212 &4464801575405713252
@@ -35032,7 +35032,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: add79767c2d25604f8a933435291c644, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  EnemyType: {fileID: 2996694130384653242, guid: bc6f13b248752f848915b742a318e9f5, type: 3}
+  EnemyType: {fileID: 8740168504523142692, guid: db408c440eadd0a4880de6c95dee8edd, type: 3}
   Animation: {fileID: 4464801575874768818}
   StartUpTime: 78
 --- !u!212 &4464801575874768820
@@ -35656,7 +35656,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: add79767c2d25604f8a933435291c644, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  EnemyType: {fileID: 2996694130384653242, guid: bc6f13b248752f848915b742a318e9f5, type: 3}
+  EnemyType: {fileID: 8740168504523142692, guid: db408c440eadd0a4880de6c95dee8edd, type: 3}
   Animation: {fileID: 4464801576330203657}
   StartUpTime: 28
 --- !u!111 &4464801576330203657
@@ -36004,7 +36004,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: add79767c2d25604f8a933435291c644, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  EnemyType: {fileID: 2996694130384653242, guid: bc6f13b248752f848915b742a318e9f5, type: 3}
+  EnemyType: {fileID: 8740168504523142692, guid: db408c440eadd0a4880de6c95dee8edd, type: 3}
   Animation: {fileID: 4464801576570146625}
   StartUpTime: 20
 --- !u!111 &4464801576570146625

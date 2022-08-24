@@ -59,7 +59,6 @@ public class WeaponSwap : MonoBehaviour
                 weapon.gameObject.GetComponent<WeaponBehaviour>().WeaponSelect.GetComponent<Animator>().SetTrigger("WeaponSelect");
             } else
             {
-                weapon.gameObject.GetComponent<WeaponBehaviour>().Flashlight.SetActive(false);
                 weapon.gameObject.GetComponent<WeaponBehaviour>().muzzleRenderer.enabled = false;
                 
                 weapon.gameObject.SetActive(false);

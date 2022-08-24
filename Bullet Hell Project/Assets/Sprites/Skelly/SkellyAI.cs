@@ -37,6 +37,8 @@ public class SkellyAI : MonoBehaviour
     Seeker seeker;
     Rigidbody2D rb;
 
+    public GameObject[] Player;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -44,14 +46,19 @@ public class SkellyAI : MonoBehaviour
         rb = GetComponent<Rigidbody2D>();
         transform.position = transform.position;
 
-        GameObject PBody = GameObject.FindGameObjectWithTag("PlayerFullBody");
+        FindTarget();
 
         InvokeRepeating("UpdatePath", 0f, .1f);
         Hitpoints = MaxHitpoints;
         healthBar.SetMaxHealth(MaxHitpoints);
-        target = PBody.GetComponent<Transform>();
 
         timeBtwShots = startTimeBtwShots;
+    }
+
+    public void FindTarget()
+    {
+        GameObject[] Player = GameObject.FindGameObjectsWithTag("PlayerFullBody");
+        target = Player[0].transform;
     }
 
     //Bullet Detect and Blood Effect

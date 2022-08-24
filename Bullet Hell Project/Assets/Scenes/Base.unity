@@ -22161,7 +22161,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Weapons
+  m_Text: Loadout
 --- !u!222 &704970618
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -32789,7 +32789,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1642878726, guid: 8894eed1c91b04a4eb74676546714413, type: 3}
       propertyPath: m_Text
-      value: Survival
+      value: Survival Mode
       objectReference: {fileID: 0}
     - target: {fileID: 1740367376, guid: 8894eed1c91b04a4eb74676546714413, type: 3}
       propertyPath: m_IsActive

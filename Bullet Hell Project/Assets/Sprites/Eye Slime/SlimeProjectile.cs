@@ -7,14 +7,20 @@ public class SlimeProjectile : MonoBehaviour
     public float speed;
 
     public ParticleSystem SlimeExplode;
-    private Transform player;
+    private Transform playerTransform;
     private Vector2 target;
+
+    public GameObject[] Player;
 
     void Start()
     {
-        player = GameObject.FindGameObjectWithTag("PlayerFullBody").transform;
 
-        target = new Vector2(player.position.x, player.position.y);
+
+        Player = GameObject.FindGameObjectsWithTag("PlayerFullBody");
+
+        playerTransform = Player[0].transform;
+
+        target = new Vector2(playerTransform.position.x, playerTransform.position.y);
 
     }
 

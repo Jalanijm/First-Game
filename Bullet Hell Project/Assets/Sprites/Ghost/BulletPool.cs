@@ -12,13 +12,9 @@ public class BulletPool : MonoBehaviour
 
     private List<GameObject> bullets;
 
-    private void Awake()
-    {
-        bulletPoolInstanse = this;
-    }
-
     void Start()
     {
+        bulletPoolInstanse = this;
         bullets = new List<GameObject>();
     }
 

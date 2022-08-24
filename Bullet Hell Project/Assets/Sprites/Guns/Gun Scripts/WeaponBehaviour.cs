@@ -13,7 +13,6 @@ public class WeaponBehaviour : MonoBehaviour
     private bool gunFacingRight;
     private bool gunFacingLeft;
 
-    public GameObject Flashlight;
     public Text WeaponSelect;
 
     public Animator gunAnimator;
@@ -92,17 +91,6 @@ public class WeaponBehaviour : MonoBehaviour
                 Sound.ShootEffect.Play();
             }
             
-        }
-
-        if (Input.GetKeyDown(KeyCode.F) && PauseMenu.GameIsPaused == false && PauseMenu.PlayerIsDead == false)
-        {
-            if(!Flashlight.activeInHierarchy)
-            {
-                Flashlight.SetActive(true);
-            }else if (Flashlight.activeInHierarchy)
-            {
-                Flashlight.SetActive(false);
-            }
         }
 
 

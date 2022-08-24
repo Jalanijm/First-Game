@@ -34,25 +34,32 @@ public class EyeSlime : MonoBehaviour
     public GameObject projectile;
     public GameObject Tracker;
 
+    public GameObject[] Player;
+
     Seeker seeker;
     Rigidbody2D rb;
 
     // Start is called before the first frame update
-    void Start()
+    void Awake()
     {
         seeker = GetComponent<Seeker>();
         rb = GetComponent<Rigidbody2D>();
 
-        GameObject PBody = GameObject.FindGameObjectWithTag("PlayerFullBody");
-
         InvokeRepeating("UpdatePath", 0f, .1f);
         Hitpoints = MaxHitpoints;
         healthBar.SetMaxHealth(MaxHitpoints);
-        target = PBody.GetComponent<Transform>();
+
+        FindTarget();
 
         timeBtwShots = startTimeBtwShots;
 
         setSpeed = speed;
+    }
+
+    public void FindTarget()
+    {
+        GameObject[] Player = GameObject.FindGameObjectsWithTag("PlayerFullBody");
+        target = Player[0].transform;
     }
 
     //Bullet Detect and Blood Effect

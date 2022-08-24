@@ -7,7 +7,9 @@ public class BoneProjectile : MonoBehaviour
     public float speed;
 
     public ParticleSystem SlimeExplode;
-    public Transform player;
+    public Transform playerTransform;
+
+    public GameObject[] Player;
 
     Rigidbody2D rb;
 
@@ -15,7 +17,9 @@ public class BoneProjectile : MonoBehaviour
 
     void Awake()
     {
-        player = GameObject.FindGameObjectWithTag("PlayerFullBody").transform;
+        Player = GameObject.FindGameObjectsWithTag("PlayerFullBody");
+
+        playerTransform = Player[0].transform;
 
         rb = GetComponent<Rigidbody2D>();
 
@@ -23,7 +27,7 @@ public class BoneProjectile : MonoBehaviour
 
         speed = 20;
 
-        moveDirection = (player.transform.position - transform.position).normalized * speed;
+        moveDirection = (playerTransform.transform.position - transform.position).normalized * speed;
 
         rb.velocity = new Vector2(moveDirection.x, moveDirection.y);
 

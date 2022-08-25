@@ -739,7 +739,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8729762848716421330}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 2.3073373, y: -0.60903764, z: 1.4482347}
+  m_LocalPosition: {x: 2.3073373, y: -0.60903764, z: 1.4482422}
   m_LocalScale: {x: 0.55, y: 0.55, z: 1}
   m_Children:
   - {fileID: 8729762850323104204}
@@ -842,9 +842,9 @@ MonoBehaviour:
   SkinBody9: {fileID: 7950418428172674193, guid: 44fd082fed885dc4eb1eb0a7afbe0e96, type: 3}
   SkinBottom9: {fileID: -5392083344116355659, guid: 44fd082fed885dc4eb1eb0a7afbe0e96, type: 3}
   SkinLeg9: {fileID: 5282740227833846665, guid: 44fd082fed885dc4eb1eb0a7afbe0e96, type: 3}
-  Outfit1: {fileID: 4318133603160552136, guid: cf33292b93caa9b40a96b517cdadeb89, type: 3}
-  Outfit2: {fileID: 8935840429912023763, guid: cf33292b93caa9b40a96b517cdadeb89, type: 3}
-  Outfit3: {fileID: 268946994950575152, guid: cf33292b93caa9b40a96b517cdadeb89, type: 3}
+  Outfit1: {fileID: 147042167570550678, guid: 2e36898b242f49e4f994f9b7df30afc9, type: 3}
+  Outfit2: {fileID: 3906127698320873638, guid: 2e36898b242f49e4f994f9b7df30afc9, type: 3}
+  Outfit3: {fileID: -1844560578106577974, guid: 2e36898b242f49e4f994f9b7df30afc9, type: 3}
   Outfit4: {fileID: -5947998631687057960, guid: cf33292b93caa9b40a96b517cdadeb89, type: 3}
   Outfit5: {fileID: -6618490646565203806, guid: cf33292b93caa9b40a96b517cdadeb89, type: 3}
   Outfit6: {fileID: -663269270383781351, guid: cf33292b93caa9b40a96b517cdadeb89, type: 3}
@@ -855,7 +855,7 @@ MonoBehaviour:
   Outfit11: {fileID: 1830348644102579879, guid: 4f976d8e9b37f384c85cf6e1e7b97f0d, type: 3}
   Outfit12: {fileID: 166154704601986724, guid: 4f976d8e9b37f384c85cf6e1e7b97f0d, type: 3}
   Outfit13: {fileID: -5390610341576516106, guid: 4f976d8e9b37f384c85cf6e1e7b97f0d, type: 3}
-  Outfit14: {fileID: 4225778359387844503, guid: 4f976d8e9b37f384c85cf6e1e7b97f0d, type: 3}
+  Outfit14: {fileID: 6646503323292655787, guid: 611e2aeb0a1b9e24ab9e4db98b10b75a, type: 3}
   Outfit15: {fileID: -2292169207503718377, guid: 4f976d8e9b37f384c85cf6e1e7b97f0d, type: 3}
   Outfit16: {fileID: 6653333288939350550, guid: 45eaa4af58ef41f4dbddaf01e0eff3f2, type: 3}
   Outfit17: {fileID: 2463577846731911450, guid: 45eaa4af58ef41f4dbddaf01e0eff3f2, type: 3}
@@ -11727,7 +11727,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8729762849700898263}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -4.202549, y: 3.1193805, z: -2404.8564}
+  m_LocalPosition: {x: -4.202549, y: 0, z: -2404.8564}
   m_LocalScale: {x: 0.9, y: 0.9, z: 1}
   m_Children:
   - {fileID: 8729762848716421331}
@@ -24734,7 +24734,7 @@ GameObject:
   - component: {fileID: 8729762850579505409}
   - component: {fileID: 8729762850579505408}
   m_Layer: 0
-  m_Name: Weapon Unlock Check
+  m_Name: Combat Only Player
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

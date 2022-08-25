@@ -11259,17 +11259,13 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 3681747998166888435, guid: b5f2e6884530f614c881fdfe5b0ccc68, type: 3}
   m_PrefabInstance: {fileID: 1905073286}
   m_PrefabAsset: {fileID: 0}
---- !u!1001 &1929375474
+--- !u!1001 &2042242466
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 8729762849700898267, guid: dfb33ee8c96a93045b218ad8cc1cc8ed, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 8729762850579505409, guid: dfb33ee8c96a93045b218ad8cc1cc8ed, type: 3}
       propertyPath: m_RootOrder
       value: 17
@@ -11280,7 +11276,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8729762850579505409, guid: dfb33ee8c96a93045b218ad8cc1cc8ed, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0
+      value: -2.1193805
       objectReference: {fileID: 0}
     - target: {fileID: 8729762850579505409, guid: dfb33ee8c96a93045b218ad8cc1cc8ed, type: 3}
       propertyPath: m_LocalPosition.z
@@ -11316,7 +11312,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8729762850579505471, guid: dfb33ee8c96a93045b218ad8cc1cc8ed, type: 3}
       propertyPath: m_Name
-      value: Weapon Unlock Check
+      value: Combat Only Player
       objectReference: {fileID: 0}
     - target: {fileID: 8729762850627407271, guid: dfb33ee8c96a93045b218ad8cc1cc8ed, type: 3}
       propertyPath: m_AnchorMax.x

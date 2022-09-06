@@ -9,7 +9,7 @@ public class DefaultEnemyBullet : MonoBehaviour
 
     private void OnEnable()
     {
-        Invoke("Destroy", 4f);
+        Invoke("Destroy", 7f);
     }
 
     void Start()

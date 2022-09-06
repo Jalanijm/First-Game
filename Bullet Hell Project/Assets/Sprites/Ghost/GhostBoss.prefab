@@ -129,8 +129,8 @@ MonoBehaviour:
   target: {fileID: 0}
   speed: 1000
   nextWaypointDistance: 0.2
-  Hitpoints: 100
-  MaxHitpoints: 100
+  Hitpoints: 140
+  MaxHitpoints: 140
   ValueText: {fileID: 0}
   healthBar: {fileID: 837167677528342678}
   enemyGFX: {fileID: 837167677511688855}
@@ -139,6 +139,7 @@ MonoBehaviour:
   startTimeBtwShots: 99999
   projectile: {fileID: 3274472207838848177, guid: 972e98323dc7502408ec66a33a794280, type: 3}
   Tracker: {fileID: 3547377685737283991, guid: 46eda82b100ce9749a6418cf8fdd126d, type: 3}
+  Player: []
 --- !u!114 &1044905635026135091
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -327,7 +328,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: efc97ae04aa32534da7452c013596e98, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bulletsAmount: 10
+  bulletsAmount: 15
   startAngle: 0
   endAngle: 360
 --- !u!1 &837167677001448852

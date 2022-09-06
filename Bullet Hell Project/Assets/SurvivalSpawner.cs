@@ -7,6 +7,7 @@ public class SurvivalSpawner : MonoBehaviour
     public GameObject Slime;
     public GameObject Skelly;
     public GameObject Eyes;
+    public GameObject Ghost;
 
     public int xPos;
     public int yPos;
@@ -56,8 +57,8 @@ public class SurvivalSpawner : MonoBehaviour
         {
             while (enemyCount < 7)
             {
-                xPos = Random.Range(-6, 6);
-                yPos = Random.Range(1, -5);
+                xPos = Random.Range(setX1, setX2);
+                yPos = Random.Range(setY1, setY2);
                 RandomEnemy = Random.Range(1, 4);
 
                 if (RandomEnemy <= 1)
@@ -83,9 +84,9 @@ public class SurvivalSpawner : MonoBehaviour
         {
             while (enemyCount < 10)
             {
-                xPos = Random.Range(-6, 6);
-                yPos = Random.Range(1, -5);
-                RandomEnemy = Random.Range(1, 4);
+                xPos = Random.Range(setX1, setX2);
+                yPos = Random.Range(setY1, setY2);
+                RandomEnemy = Random.Range(1, 5);
 
                 if (RandomEnemy <= 1)
                 {
@@ -100,6 +101,9 @@ public class SurvivalSpawner : MonoBehaviour
                 else if (RandomEnemy <= 4 && RandomEnemy > 2)
                 {
                     Instantiate(Eyes, new Vector3(xPos, yPos, 0), Quaternion.identity);
+                } else if (RandomEnemy <= 5 && RandomEnemy > 4)
+                {
+                    Instantiate(Ghost, new Vector3(xPos, yPos, 0), Quaternion.identity);
                 }
 
                 enemyCount += 1;
@@ -109,11 +113,11 @@ public class SurvivalSpawner : MonoBehaviour
 
         } else if (StageTime > 700)
         {
-            while (enemyCount < 15)
+            while (enemyCount < 13)
             {
-                xPos = Random.Range(-6, 6);
-                yPos = Random.Range(1, -5);
-                RandomEnemy = Random.Range(1, 4);
+                xPos = Random.Range(setX1, setX2);
+                yPos = Random.Range(setY1, setY2);
+                RandomEnemy = Random.Range(1, 5);
 
                 if (RandomEnemy <= 1)
                 {
@@ -128,6 +132,10 @@ public class SurvivalSpawner : MonoBehaviour
                 else if (RandomEnemy <= 4 && RandomEnemy > 2)
                 {
                     Instantiate(Eyes, new Vector3(xPos, yPos, 0), Quaternion.identity);
+                }
+                else if (RandomEnemy <= 5 && RandomEnemy > 4)
+                {
+                    Instantiate(Ghost, new Vector3(xPos, yPos, 0), Quaternion.identity);
                 }
 
                 enemyCount += 1;

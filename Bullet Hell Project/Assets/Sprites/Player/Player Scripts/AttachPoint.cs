@@ -88,7 +88,7 @@ public class AttachPoint : MonoBehaviour
         //Sprint
         if (isRunning)
         {
-           moveSpeed = 8.5f;
+           moveSpeed = 12f;
         } else
         {
             moveSpeed = 5f;

@@ -4814,6 +4814,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4251968476893981281}
   - component: {fileID: 8731874743902292674}
+  - component: {fileID: 2387852078584867323}
   m_Layer: 0
   m_Name: Point Light 2D
   m_TagString: Untagged
@@ -4847,14 +4848,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 073797afb82c5a1438f328866b10b3f0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_LightType: 3
+  m_LightType: 2
   m_BlendStyleIndex: 0
   m_FalloffIntensity: 1
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_Intensity: 0.7
-  m_LightVolumeOpacity: 0
+  m_Color: {r: 1, g: 0, b: 0, a: 1}
+  m_Intensity: 1
+  m_LightVolumeOpacity: 0.4
   m_ApplyToSortingLayers: 00000000
-  m_LightCookieSprite: {fileID: 0}
+  m_LightCookieSprite: {fileID: 1189205727920655461, guid: 681eb0ab6e2b54b4ba98ba9b1b2eb7a5, type: 3}
   m_UseNormalMap: 0
   m_LightOrder: 0
   m_AlphaBlendOnOverlap: 0
@@ -4876,6 +4877,22 @@ MonoBehaviour:
   - {x: 0.5, y: -0.5, z: 0}
   - {x: 0.5, y: 0.5, z: 0}
   - {x: -0.5, y: 0.5, z: 0}
+--- !u!111 &2387852078584867323
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8523438991843861762}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: 7400000, guid: 32dbec7379bba0449867218ee9797f04, type: 2}
+  m_Animations:
+  - {fileID: 7400000, guid: 32dbec7379bba0449867218ee9797f04, type: 2}
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_CullingType: 0
 --- !u!1 &8740168504523142692
 GameObject:
   m_ObjectHideFlags: 0
@@ -4909,7 +4926,7 @@ Transform:
   m_GameObject: {fileID: 8740168504523142692}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 2.18, y: -1.35, z: 0}
-  m_LocalScale: {x: 0.9, y: 0.9, z: 1}
+  m_LocalScale: {x: 0.7, y: 0.7, z: 1}
   m_Children:
   - {fileID: 4251968476893981281}
   - {fileID: 8211239253637442622}
@@ -4957,7 +4974,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 7
   m_Sprite: {fileID: 1189205727920655461, guid: 681eb0ab6e2b54b4ba98ba9b1b2eb7a5, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0.3529412, g: 0.3529412, b: 0.3529412, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -5058,9 +5075,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b4683de8c2e4a6e4b9863d4b62fac1f0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 1100
+  speed: 1300
   SlimeExplode: {fileID: 5861195347576056240, guid: b3c06b2fb1d7847428d58fc3ebdd4a44, type: 3}
-  player: {fileID: 0}
+  playerTransform: {fileID: 0}
+  Player: []
 --- !u!61 &8110377400982537031
 BoxCollider2D:
   m_ObjectHideFlags: 0

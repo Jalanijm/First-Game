@@ -5445,7 +5445,7 @@ Transform:
   m_GameObject: {fileID: 6590955678508666363}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 14.513791, y: 1.0561361, z: 491.69162}
-  m_LocalScale: {x: 0.8, y: 0.8, z: 1}
+  m_LocalScale: {x: 0.9, y: 0.9, z: 1}
   m_Children:
   - {fileID: 6590955677978189011}
   - {fileID: 6590955677836560967}
@@ -5531,8 +5531,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   target: {fileID: 0}
-  speed: 600
-  nextWaypointDistance: 0.1
+  speed: 950
+  nextWaypointDistance: 0.5
   Hitpoints: 4
   MaxHitpoints: 4
   ValueText: {fileID: 0}
@@ -5540,9 +5540,10 @@ MonoBehaviour:
   enemyGFX: {fileID: 6590955678488200145}
   SlimeExplode: {fileID: 5861195347576056240, guid: b3c06b2fb1d7847428d58fc3ebdd4a44, type: 3}
   Slimedust: {fileID: 6590955677825819427}
-  startTimeBtwShots: 2
+  startTimeBtwShots: 1.7
   projectile: {fileID: 6854497552086024433, guid: d1a705340502f7c43a5f7a25786491a4, type: 3}
   Tracker: {fileID: 3547377685737283991, guid: 46eda82b100ce9749a6418cf8fdd126d, type: 3}
+  Player: []
 --- !u!114 &6803163284610963063
 MonoBehaviour:
   m_ObjectHideFlags: 0

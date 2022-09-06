@@ -131,9 +131,10 @@ MonoBehaviour:
   SlimeExplode: {fileID: 3273943920935711752, guid: a4d97606cbc05904e907206df697b93b, type: 3}
   Slimedust: {fileID: 3830117140857222811}
   SkellyMove: {fileID: 3830117140166467828}
-  startTimeBtwShots: 1.5
+  startTimeBtwShots: 1.9
   projectile: {fileID: 2996694130384653242, guid: bc6f13b248752f848915b742a318e9f5, type: 3}
   Tracker: {fileID: 3547377685737283991, guid: 46eda82b100ce9749a6418cf8fdd126d, type: 3}
+  Player: []
 --- !u!95 &3830117140166467828
 Animator:
   serializedVersion: 3

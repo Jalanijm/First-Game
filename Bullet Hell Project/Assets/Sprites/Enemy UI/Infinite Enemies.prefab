@@ -98,6 +98,7 @@ MonoBehaviour:
   Slime: {fileID: 6480621500961495089, guid: 861215ef923a2604f90b9485445d4ef7, type: 3}
   Skelly: {fileID: 8069826791780204174, guid: 37ac172cd2014d44daab55c20f515490, type: 3}
   Eyes: {fileID: 1814548348856200144, guid: 93883b179be6e754e9fa5ae42c9d8de8, type: 3}
+  Ghost: {fileID: 8082201562364829846, guid: 1f91dcd1ccf791642a2fafe71c4a65b1, type: 3}
   xPos: 0
   yPos: 0
   enemyCount: 0

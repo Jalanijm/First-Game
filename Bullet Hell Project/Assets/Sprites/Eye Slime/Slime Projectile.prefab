@@ -4975,8 +4975,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d54c00e237c1e164bbfa3a92bb755a12, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 18
+  speed: 20
   SlimeExplode: {fileID: 5861195347576056240, guid: b3c06b2fb1d7847428d58fc3ebdd4a44, type: 3}
+  Player: []
 --- !u!58 &6854497552086024435
 CircleCollider2D:
   m_ObjectHideFlags: 0

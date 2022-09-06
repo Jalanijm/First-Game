@@ -23,7 +23,7 @@ public class playerSprint : MonoBehaviour
         if (Input.GetMouseButton(1) && staminaBar.value > 0 && PauseMenu.GameIsPaused == false && PauseMenu.PlayerIsDead == false)
         {
             AttachPoint.isRunning = true;
-            staminaBar.value -= 2.5f;
+            staminaBar.value -= 1.5f;
         }
         else
         {
@@ -32,7 +32,7 @@ public class playerSprint : MonoBehaviour
 
         if (staminaBar.value < 120 && !Input.GetMouseButton(1) && !Input.GetKey(KeyCode.Space) && PauseMenu.GameIsPaused == false && PauseMenu.PlayerIsDead == false)
         {
-            staminaBar.value += 1f;
+            staminaBar.value += 0.4f;
         }
 
 

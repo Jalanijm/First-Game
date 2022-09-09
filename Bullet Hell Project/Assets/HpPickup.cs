@@ -8,7 +8,11 @@ public class HpPickup : MonoBehaviour
     {
         if (other.CompareTag("Player"))
         {
-            Destroy(gameObject);
+           if (GameObject.FindWithTag("Player").GetComponent<AttachPoint>().Hitpoints < GameObject.FindWithTag("Player").GetComponent<AttachPoint>().MaxHitpoints)
+            {
+                Destroy(gameObject);
+            }
+            
         }
     }
 

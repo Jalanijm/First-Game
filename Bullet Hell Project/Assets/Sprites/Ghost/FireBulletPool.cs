@@ -12,10 +12,13 @@ public class FireBulletPool : MonoBehaviour
 
     private Vector2 bulletMoveDirection;
 
+    public float TimeBtwShot = 2f;
+
 
     void Start()
     {
-        InvokeRepeating("Fire", 0f, 2f);
+        InvokeRepeating("Fire", 0f, TimeBtwShot);
+        
     }
 
     

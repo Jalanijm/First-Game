@@ -7,6 +7,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 168561997508459723, guid: 0511e17b845338044a2c8811b51c944a, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2973354727960893131, guid: 0511e17b845338044a2c8811b51c944a, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 6590955677103680550, guid: 0511e17b845338044a2c8811b51c944a, type: 3}
       propertyPath: m_AnchorMax.x
       value: 0
@@ -96,12 +104,20 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 641493426628932961, guid: 69f388953e7af38469f6175f8bcaacbb, type: 3}
     - target: {fileID: 6590955678508666360, guid: 0511e17b845338044a2c8811b51c944a, type: 3}
+      propertyPath: SlimeDeath
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6590955678508666360, guid: 0511e17b845338044a2c8811b51c944a, type: 3}
       propertyPath: projectile
       value: 
       objectReference: {fileID: 3274472207838848177, guid: 972e98323dc7502408ec66a33a794280, type: 3}
     - target: {fileID: 6590955678508666360, guid: 0511e17b845338044a2c8811b51c944a, type: 3}
       propertyPath: MaxHitpoints
       value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6590955678508666360, guid: 0511e17b845338044a2c8811b51c944a, type: 3}
+      propertyPath: SetRandomSpeed
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6590955678508666360, guid: 0511e17b845338044a2c8811b51c944a, type: 3}
       propertyPath: startTimeBtwShots

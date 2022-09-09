@@ -209,7 +209,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3830117140166467829, guid: b6a77c2350b16d449847158f21ca4571, type: 3}
       propertyPath: detectorSize.y
-      value: 9.4
+      value: 13
       objectReference: {fileID: 0}
     - target: {fileID: 3830117140166467830, guid: b6a77c2350b16d449847158f21ca4571, type: 3}
       propertyPath: m_Mass
@@ -230,6 +230,10 @@ PrefabInstance:
     - target: {fileID: 3830117140166467831, guid: b6a77c2350b16d449847158f21ca4571, type: 3}
       propertyPath: MaxHitpoints
       value: 90
+      objectReference: {fileID: 0}
+    - target: {fileID: 3830117140166467831, guid: b6a77c2350b16d449847158f21ca4571, type: 3}
+      propertyPath: SetRandomSpeed
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3830117140166467831, guid: b6a77c2350b16d449847158f21ca4571, type: 3}
       propertyPath: startTimeBtwShots

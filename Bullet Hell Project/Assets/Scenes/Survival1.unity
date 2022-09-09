@@ -3243,6 +3243,10 @@ PrefabInstance:
       value: HealthVase (1)
       objectReference: {fileID: 0}
     - target: {fileID: 7298809796609834704, guid: d04897ebd1091dd499e0d4c724d39da1, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7298809796609834704, guid: d04897ebd1091dd499e0d4c724d39da1, type: 3}
       propertyPath: m_TagString
       value: Breakable
       objectReference: {fileID: 0}
@@ -4707,7 +4711,7 @@ MonoBehaviour:
   m_FallbackScreenDPI: 96
   m_DefaultSpriteDPI: 96
   m_DynamicPixelsPerUnit: 1
-  m_PresetInfoIsWorld: 0
+  m_PresetInfoIsWorld: 1
 --- !u!223 &1221320314
 Canvas:
   m_ObjectHideFlags: 0
@@ -10906,10 +10910,10 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 24300002, guid: bace9b6145f7aff49a14e7671701ac78, type: 2}
-  m_audioClip: {fileID: 8300000, guid: 497918a96f57a234c9f200ba630fb5e3, type: 3}
+  m_audioClip: {fileID: 8300000, guid: 52f4316cd9da35c4e9f569395077557b, type: 3}
   m_PlayOnAwake: 0
-  m_Volume: 0.739
-  m_Pitch: 1
+  m_Volume: 0.4
+  m_Pitch: 0.8
   Loop: 1
   Mute: 0
   Spatialize: 0

@@ -18,7 +18,7 @@ public class WeaponSwap : MonoBehaviour
     {
         int previousSelectedWeapon = SelectedWeapon;
 
-        if (Input.GetKeyDown("1") && PauseMenu.GameIsPaused == false && PauseMenu.PlayerIsDead == false) {
+        if (Input.GetKeyDown(KeyCode.Q) && PauseMenu.GameIsPaused == false && PauseMenu.PlayerIsDead == false) {
             if (SelectedWeapon >= transform.childCount - 1)
             {
                 SelectedWeapon = 0;
@@ -28,7 +28,7 @@ public class WeaponSwap : MonoBehaviour
             }
         } 
         
-        if (Input.GetKeyDown(KeyCode.Q) && PauseMenu.GameIsPaused == false && PauseMenu.PlayerIsDead == false)
+        if (Input.GetKeyDown("1") && PauseMenu.GameIsPaused == false && PauseMenu.PlayerIsDead == false)
         {
             if (SelectedWeapon <= 0)
             {

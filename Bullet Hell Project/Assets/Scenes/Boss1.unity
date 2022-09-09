@@ -1110,10 +1110,26 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1874432860}
     m_Modifications:
+    - target: {fileID: 6480621500702669636, guid: 861215ef923a2604f90b9485445d4ef7, type: 3}
+      propertyPath: m_Color.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6480621500702669636, guid: 861215ef923a2604f90b9485445d4ef7, type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6480621500702669636, guid: 861215ef923a2604f90b9485445d4ef7, type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6480621500961495089, guid: 861215ef923a2604f90b9485445d4ef7, type: 3}
       propertyPath: m_Name
       value: Pentagram (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 6480621500961495090, guid: 861215ef923a2604f90b9485445d4ef7, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 6410630589639772564, guid: ba65552b79c78db4aa982519f89aedaa, type: 3}
     - target: {fileID: 6480621500961495091, guid: 861215ef923a2604f90b9485445d4ef7, type: 3}
       propertyPath: m_RootOrder
       value: 2
@@ -3284,10 +3300,26 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1874432860}
     m_Modifications:
+    - target: {fileID: 6480621500702669636, guid: 861215ef923a2604f90b9485445d4ef7, type: 3}
+      propertyPath: m_Color.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6480621500702669636, guid: 861215ef923a2604f90b9485445d4ef7, type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6480621500702669636, guid: 861215ef923a2604f90b9485445d4ef7, type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6480621500961495089, guid: 861215ef923a2604f90b9485445d4ef7, type: 3}
       propertyPath: m_Name
       value: Pentagram (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 6480621500961495090, guid: 861215ef923a2604f90b9485445d4ef7, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 6410630589639772564, guid: ba65552b79c78db4aa982519f89aedaa, type: 3}
     - target: {fileID: 6480621500961495091, guid: 861215ef923a2604f90b9485445d4ef7, type: 3}
       propertyPath: m_RootOrder
       value: 4
@@ -3732,10 +3764,26 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1749130550}
     m_Modifications:
+    - target: {fileID: 6480621500702669636, guid: 861215ef923a2604f90b9485445d4ef7, type: 3}
+      propertyPath: m_Color.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6480621500702669636, guid: 861215ef923a2604f90b9485445d4ef7, type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6480621500702669636, guid: 861215ef923a2604f90b9485445d4ef7, type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6480621500961495089, guid: 861215ef923a2604f90b9485445d4ef7, type: 3}
       propertyPath: m_Name
       value: Pentagram (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 6480621500961495090, guid: 861215ef923a2604f90b9485445d4ef7, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 6410630589639772564, guid: ba65552b79c78db4aa982519f89aedaa, type: 3}
     - target: {fileID: 6480621500961495091, guid: 861215ef923a2604f90b9485445d4ef7, type: 3}
       propertyPath: m_RootOrder
       value: 2
@@ -3797,10 +3845,26 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1582990369}
     m_Modifications:
+    - target: {fileID: 6480621500702669636, guid: 861215ef923a2604f90b9485445d4ef7, type: 3}
+      propertyPath: m_Color.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6480621500702669636, guid: 861215ef923a2604f90b9485445d4ef7, type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6480621500702669636, guid: 861215ef923a2604f90b9485445d4ef7, type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6480621500961495089, guid: 861215ef923a2604f90b9485445d4ef7, type: 3}
       propertyPath: m_Name
       value: Pentagram (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 6480621500961495090, guid: 861215ef923a2604f90b9485445d4ef7, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 6410630589639772564, guid: ba65552b79c78db4aa982519f89aedaa, type: 3}
     - target: {fileID: 6480621500961495091, guid: 861215ef923a2604f90b9485445d4ef7, type: 3}
       propertyPath: m_RootOrder
       value: 2
@@ -7752,10 +7816,26 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1874432860}
     m_Modifications:
+    - target: {fileID: 6480621500702669636, guid: 861215ef923a2604f90b9485445d4ef7, type: 3}
+      propertyPath: m_Color.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6480621500702669636, guid: 861215ef923a2604f90b9485445d4ef7, type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6480621500702669636, guid: 861215ef923a2604f90b9485445d4ef7, type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6480621500961495089, guid: 861215ef923a2604f90b9485445d4ef7, type: 3}
       propertyPath: m_Name
       value: Pentagram (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 6480621500961495090, guid: 861215ef923a2604f90b9485445d4ef7, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 6410630589639772564, guid: ba65552b79c78db4aa982519f89aedaa, type: 3}
     - target: {fileID: 6480621500961495091, guid: 861215ef923a2604f90b9485445d4ef7, type: 3}
       propertyPath: m_RootOrder
       value: 3
@@ -7980,10 +8060,26 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1874432860}
     m_Modifications:
+    - target: {fileID: 6480621500702669636, guid: 861215ef923a2604f90b9485445d4ef7, type: 3}
+      propertyPath: m_Color.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6480621500702669636, guid: 861215ef923a2604f90b9485445d4ef7, type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6480621500702669636, guid: 861215ef923a2604f90b9485445d4ef7, type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6480621500961495089, guid: 861215ef923a2604f90b9485445d4ef7, type: 3}
       propertyPath: m_Name
       value: Pentagram (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 6480621500961495090, guid: 861215ef923a2604f90b9485445d4ef7, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 6410630589639772564, guid: ba65552b79c78db4aa982519f89aedaa, type: 3}
     - target: {fileID: 6480621500961495091, guid: 861215ef923a2604f90b9485445d4ef7, type: 3}
       propertyPath: m_RootOrder
       value: 1
@@ -8606,10 +8702,26 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1582990369}
     m_Modifications:
+    - target: {fileID: 6480621500702669636, guid: 861215ef923a2604f90b9485445d4ef7, type: 3}
+      propertyPath: m_Color.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6480621500702669636, guid: 861215ef923a2604f90b9485445d4ef7, type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6480621500702669636, guid: 861215ef923a2604f90b9485445d4ef7, type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6480621500961495089, guid: 861215ef923a2604f90b9485445d4ef7, type: 3}
       propertyPath: m_Name
       value: Pentagram (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 6480621500961495090, guid: 861215ef923a2604f90b9485445d4ef7, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 6410630589639772564, guid: ba65552b79c78db4aa982519f89aedaa, type: 3}
     - target: {fileID: 6480621500961495091, guid: 861215ef923a2604f90b9485445d4ef7, type: 3}
       propertyPath: m_RootOrder
       value: 5
@@ -8851,10 +8963,26 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1749130550}
     m_Modifications:
+    - target: {fileID: 6480621500702669636, guid: 861215ef923a2604f90b9485445d4ef7, type: 3}
+      propertyPath: m_Color.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6480621500702669636, guid: 861215ef923a2604f90b9485445d4ef7, type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6480621500702669636, guid: 861215ef923a2604f90b9485445d4ef7, type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6480621500961495089, guid: 861215ef923a2604f90b9485445d4ef7, type: 3}
       propertyPath: m_Name
       value: Pentagram (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 6480621500961495090, guid: 861215ef923a2604f90b9485445d4ef7, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 6410630589639772564, guid: ba65552b79c78db4aa982519f89aedaa, type: 3}
     - target: {fileID: 6480621500961495091, guid: 861215ef923a2604f90b9485445d4ef7, type: 3}
       propertyPath: m_RootOrder
       value: 1
@@ -8916,10 +9044,26 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1874432860}
     m_Modifications:
+    - target: {fileID: 6480621500702669636, guid: 861215ef923a2604f90b9485445d4ef7, type: 3}
+      propertyPath: m_Color.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6480621500702669636, guid: 861215ef923a2604f90b9485445d4ef7, type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6480621500702669636, guid: 861215ef923a2604f90b9485445d4ef7, type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6480621500961495089, guid: 861215ef923a2604f90b9485445d4ef7, type: 3}
       propertyPath: m_Name
       value: Pentagram (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 6480621500961495090, guid: 861215ef923a2604f90b9485445d4ef7, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 6410630589639772564, guid: ba65552b79c78db4aa982519f89aedaa, type: 3}
     - target: {fileID: 6480621500961495091, guid: 861215ef923a2604f90b9485445d4ef7, type: 3}
       propertyPath: m_RootOrder
       value: 0
@@ -8986,10 +9130,26 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1582990369}
     m_Modifications:
+    - target: {fileID: 6480621500702669636, guid: 861215ef923a2604f90b9485445d4ef7, type: 3}
+      propertyPath: m_Color.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6480621500702669636, guid: 861215ef923a2604f90b9485445d4ef7, type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6480621500702669636, guid: 861215ef923a2604f90b9485445d4ef7, type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6480621500961495089, guid: 861215ef923a2604f90b9485445d4ef7, type: 3}
       propertyPath: m_Name
       value: Pentagram (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 6480621500961495090, guid: 861215ef923a2604f90b9485445d4ef7, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 6410630589639772564, guid: ba65552b79c78db4aa982519f89aedaa, type: 3}
     - target: {fileID: 6480621500961495091, guid: 861215ef923a2604f90b9485445d4ef7, type: 3}
       propertyPath: m_RootOrder
       value: 4
@@ -9040,7 +9200,7 @@ PrefabInstance:
       objectReference: {fileID: 8740168504523142692, guid: db408c440eadd0a4880de6c95dee8edd, type: 3}
     - target: {fileID: 6480621500961495093, guid: 861215ef923a2604f90b9485445d4ef7, type: 3}
       propertyPath: StartUpTime
-      value: 134
+      value: 100
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 861215ef923a2604f90b9485445d4ef7, type: 3}
@@ -9472,10 +9632,26 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1582990369}
     m_Modifications:
+    - target: {fileID: 6480621500702669636, guid: 861215ef923a2604f90b9485445d4ef7, type: 3}
+      propertyPath: m_Color.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6480621500702669636, guid: 861215ef923a2604f90b9485445d4ef7, type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6480621500702669636, guid: 861215ef923a2604f90b9485445d4ef7, type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6480621500961495089, guid: 861215ef923a2604f90b9485445d4ef7, type: 3}
       propertyPath: m_Name
       value: Pentagram (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 6480621500961495090, guid: 861215ef923a2604f90b9485445d4ef7, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 6410630589639772564, guid: ba65552b79c78db4aa982519f89aedaa, type: 3}
     - target: {fileID: 6480621500961495091, guid: 861215ef923a2604f90b9485445d4ef7, type: 3}
       propertyPath: m_RootOrder
       value: 1
@@ -9814,10 +9990,26 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1749130550}
     m_Modifications:
+    - target: {fileID: 6480621500702669636, guid: 861215ef923a2604f90b9485445d4ef7, type: 3}
+      propertyPath: m_Color.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6480621500702669636, guid: 861215ef923a2604f90b9485445d4ef7, type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6480621500702669636, guid: 861215ef923a2604f90b9485445d4ef7, type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6480621500961495089, guid: 861215ef923a2604f90b9485445d4ef7, type: 3}
       propertyPath: m_Name
       value: Pentagram (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 6480621500961495090, guid: 861215ef923a2604f90b9485445d4ef7, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 6410630589639772564, guid: ba65552b79c78db4aa982519f89aedaa, type: 3}
     - target: {fileID: 6480621500961495091, guid: 861215ef923a2604f90b9485445d4ef7, type: 3}
       propertyPath: m_RootOrder
       value: 0
@@ -10057,10 +10249,26 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1582990369}
     m_Modifications:
+    - target: {fileID: 6480621500702669636, guid: 861215ef923a2604f90b9485445d4ef7, type: 3}
+      propertyPath: m_Color.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6480621500702669636, guid: 861215ef923a2604f90b9485445d4ef7, type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6480621500702669636, guid: 861215ef923a2604f90b9485445d4ef7, type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6480621500961495089, guid: 861215ef923a2604f90b9485445d4ef7, type: 3}
       propertyPath: m_Name
       value: Pentagram (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 6480621500961495090, guid: 861215ef923a2604f90b9485445d4ef7, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 6410630589639772564, guid: ba65552b79c78db4aa982519f89aedaa, type: 3}
     - target: {fileID: 6480621500961495091, guid: 861215ef923a2604f90b9485445d4ef7, type: 3}
       propertyPath: m_RootOrder
       value: 3
@@ -10797,10 +11005,26 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1749130550}
     m_Modifications:
+    - target: {fileID: 6480621500702669636, guid: 861215ef923a2604f90b9485445d4ef7, type: 3}
+      propertyPath: m_Color.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6480621500702669636, guid: 861215ef923a2604f90b9485445d4ef7, type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6480621500702669636, guid: 861215ef923a2604f90b9485445d4ef7, type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6480621500961495089, guid: 861215ef923a2604f90b9485445d4ef7, type: 3}
       propertyPath: m_Name
       value: Pentagram (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 6480621500961495090, guid: 861215ef923a2604f90b9485445d4ef7, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 6410630589639772564, guid: ba65552b79c78db4aa982519f89aedaa, type: 3}
     - target: {fileID: 6480621500961495091, guid: 861215ef923a2604f90b9485445d4ef7, type: 3}
       propertyPath: m_RootOrder
       value: 3
@@ -10958,6 +11182,15 @@ Transform:
   - {fileID: 640095738}
   - {fileID: 620765417}
   - {fileID: 802684821}
+  - {fileID: 4464801576570146630}
+  - {fileID: 4464801575994546282}
+  - {fileID: 4464801576330203662}
+  - {fileID: 856857374149350895}
+  - {fileID: 4464801576525950194}
+  - {fileID: 4464801575208771349}
+  - {fileID: 4464801575054236357}
+  - {fileID: 4464801575405713253}
+  - {fileID: 4464801575874768821}
   m_Father: {fileID: 0}
   m_RootOrder: 19
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -11884,10 +12117,26 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1874432860}
     m_Modifications:
+    - target: {fileID: 6480621500702669636, guid: 861215ef923a2604f90b9485445d4ef7, type: 3}
+      propertyPath: m_Color.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6480621500702669636, guid: 861215ef923a2604f90b9485445d4ef7, type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6480621500702669636, guid: 861215ef923a2604f90b9485445d4ef7, type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6480621500961495089, guid: 861215ef923a2604f90b9485445d4ef7, type: 3}
       propertyPath: m_Name
       value: Pentagram (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 6480621500961495090, guid: 861215ef923a2604f90b9485445d4ef7, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 6410630589639772564, guid: ba65552b79c78db4aa982519f89aedaa, type: 3}
     - target: {fileID: 6480621500961495091, guid: 861215ef923a2604f90b9485445d4ef7, type: 3}
       propertyPath: m_RootOrder
       value: 5
@@ -12166,6 +12415,10 @@ PrefabInstance:
       propertyPath: EnemyType
       value: 
       objectReference: {fileID: 2309941556566694443, guid: 14936dd9e800f2641a74fd0d4a385422, type: 3}
+    - target: {fileID: 8069826791780204170, guid: 37ac172cd2014d44daab55c20f515490, type: 3}
+      propertyPath: StartUpTime
+      value: 4
+      objectReference: {fileID: 0}
     - target: {fileID: 8069826791780204172, guid: 37ac172cd2014d44daab55c20f515490, type: 3}
       propertyPath: m_RootOrder
       value: 1
@@ -12816,6 +13069,18 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 374496599087850036, guid: dfb33ee8c96a93045b218ad8cc1cc8ed, type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3709360273638299332, guid: dfb33ee8c96a93045b218ad8cc1cc8ed, type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3861072194435948592, guid: dfb33ee8c96a93045b218ad8cc1cc8ed, type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8729762848943044744, guid: dfb33ee8c96a93045b218ad8cc1cc8ed, type: 3}
       propertyPath: rb
       value: 
@@ -12851,6 +13116,18 @@ PrefabInstance:
     - target: {fileID: 8729762849367198931, guid: dfb33ee8c96a93045b218ad8cc1cc8ed, type: 3}
       propertyPath: m_LocalPosition.y
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8729762849731023137, guid: dfb33ee8c96a93045b218ad8cc1cc8ed, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8729762849731023141, guid: dfb33ee8c96a93045b218ad8cc1cc8ed, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: a0e35f6b808bb7447826cc6c69ffe448, type: 3}
+    - target: {fileID: 8729762849731023141, guid: dfb33ee8c96a93045b218ad8cc1cc8ed, type: 3}
+      propertyPath: m_Color.a
+      value: 0.039215688
       objectReference: {fileID: 0}
     - target: {fileID: 8729762850196872811, guid: dfb33ee8c96a93045b218ad8cc1cc8ed, type: 3}
       propertyPath: rb
@@ -12983,10 +13260,26 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1582990369}
     m_Modifications:
+    - target: {fileID: 6480621500702669636, guid: 861215ef923a2604f90b9485445d4ef7, type: 3}
+      propertyPath: m_Color.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6480621500702669636, guid: 861215ef923a2604f90b9485445d4ef7, type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6480621500702669636, guid: 861215ef923a2604f90b9485445d4ef7, type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6480621500961495089, guid: 861215ef923a2604f90b9485445d4ef7, type: 3}
       propertyPath: m_Name
       value: Pentagram (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 6480621500961495090, guid: 861215ef923a2604f90b9485445d4ef7, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 6410630589639772564, guid: ba65552b79c78db4aa982519f89aedaa, type: 3}
     - target: {fileID: 6480621500961495091, guid: 861215ef923a2604f90b9485445d4ef7, type: 3}
       propertyPath: m_RootOrder
       value: 0
@@ -13127,10 +13420,26 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1749130550}
     m_Modifications:
+    - target: {fileID: 6480621500702669636, guid: 861215ef923a2604f90b9485445d4ef7, type: 3}
+      propertyPath: m_Color.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6480621500702669636, guid: 861215ef923a2604f90b9485445d4ef7, type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6480621500702669636, guid: 861215ef923a2604f90b9485445d4ef7, type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6480621500961495089, guid: 861215ef923a2604f90b9485445d4ef7, type: 3}
       propertyPath: m_Name
       value: Pentagram (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 6480621500961495090, guid: 861215ef923a2604f90b9485445d4ef7, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 6410630589639772564, guid: ba65552b79c78db4aa982519f89aedaa, type: 3}
     - target: {fileID: 6480621500961495091, guid: 861215ef923a2604f90b9485445d4ef7, type: 3}
       propertyPath: m_RootOrder
       value: 5
@@ -13599,10 +13908,26 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1749130550}
     m_Modifications:
+    - target: {fileID: 6480621500702669636, guid: 861215ef923a2604f90b9485445d4ef7, type: 3}
+      propertyPath: m_Color.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6480621500702669636, guid: 861215ef923a2604f90b9485445d4ef7, type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6480621500702669636, guid: 861215ef923a2604f90b9485445d4ef7, type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6480621500961495089, guid: 861215ef923a2604f90b9485445d4ef7, type: 3}
       propertyPath: m_Name
       value: Pentagram (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 6480621500961495090, guid: 861215ef923a2604f90b9485445d4ef7, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 6410630589639772564, guid: ba65552b79c78db4aa982519f89aedaa, type: 3}
     - target: {fileID: 6480621500961495091, guid: 861215ef923a2604f90b9485445d4ef7, type: 3}
       propertyPath: m_RootOrder
       value: 4
@@ -13889,10 +14214,10 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 24300002, guid: bace9b6145f7aff49a14e7671701ac78, type: 2}
-  m_audioClip: {fileID: 8300000, guid: 0caca404a1b1e7f4090a63e4a17a0316, type: 3}
+  m_audioClip: {fileID: 8300000, guid: 2afb561633ccd634bb8859cb496da8ce, type: 3}
   m_PlayOnAwake: 0
-  m_Volume: 0.739
-  m_Pitch: 1
+  m_Volume: 0.4
+  m_Pitch: 0.75
   Loop: 1
   Mute: 0
   Spatialize: 0
@@ -14213,7 +14538,7 @@ Transform:
   m_Children:
   - {fileID: 856857372448454761}
   m_Father: {fileID: 7213046468069183314}
-  m_RootOrder: 3
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &856857372688341787
 GameObject:
@@ -14328,7 +14653,7 @@ Transform:
   m_Children:
   - {fileID: 856857373058130918}
   m_Father: {fileID: 7213046468069183314}
-  m_RootOrder: 2
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &856857372817637527
 SpriteRenderer:
@@ -14517,7 +14842,7 @@ Transform:
   m_Children:
   - {fileID: 856857373638839846}
   m_Father: {fileID: 7213046468069183314}
-  m_RootOrder: 11
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &856857373378047319
 SpriteRenderer:
@@ -14658,7 +14983,7 @@ MonoBehaviour:
   m_LightType: 1
   m_BlendStyleIndex: 0
   m_FalloffIntensity: 0.75
-  m_Color: {r: 1, g: 0, b: 0, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Intensity: 0
   m_LightVolumeOpacity: 0.2
   m_ApplyToSortingLayers: 00000000
@@ -14806,7 +15131,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
-  m_Sprite: {fileID: -1976161606452182943, guid: 63867051f7ccfca47863125c7d8ce593, type: 3}
+  m_Sprite: {fileID: 6410630589639772564, guid: ba65552b79c78db4aa982519f89aedaa, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -14825,12 +15150,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 856857374149350893}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -11.773494, y: -3.3287308, z: 34.690956}
+  m_LocalPosition: {x: -6.0647783, y: -0.47292423, z: -2946.4458}
   m_LocalScale: {x: 0, y: 0, z: 1}
   m_Children:
   - {fileID: 856857373873878687}
-  m_Father: {fileID: 7213046468069183314}
-  m_RootOrder: 6
+  m_Father: {fileID: 1582990369}
+  m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1524961761379310204
 PrefabInstance:
@@ -15015,7 +15340,7 @@ Transform:
   m_Children:
   - {fileID: 4464801575293980719}
   m_Father: {fileID: 7213046468069183314}
-  m_RootOrder: 14
+  m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!111 &4464801575054236354
 Animation:
@@ -15088,7 +15413,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
-  m_Sprite: {fileID: -1976161606452182943, guid: 63867051f7ccfca47863125c7d8ce593, type: 3}
+  m_Sprite: {fileID: 6410630589639772564, guid: ba65552b79c78db4aa982519f89aedaa, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -15107,12 +15432,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4464801575054236359}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -9.56, y: -1.26, z: 34.690956}
+  m_LocalPosition: {x: -3.851285, y: 1.5958066, z: -2946.4458}
   m_LocalScale: {x: 0, y: 0, z: 1}
   m_Children:
   - {fileID: 4464801575294204341}
-  m_Father: {fileID: 7213046468069183314}
-  m_RootOrder: 8
+  m_Father: {fileID: 1582990369}
+  m_RootOrder: 12
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &4464801575054236359
 GameObject:
@@ -15148,7 +15473,7 @@ MonoBehaviour:
   m_LightType: 1
   m_BlendStyleIndex: 0
   m_FalloffIntensity: 0.75
-  m_Color: {r: 1, g: 0, b: 0, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Intensity: 0
   m_LightVolumeOpacity: 0.2
   m_ApplyToSortingLayers: 00000000
@@ -15277,7 +15602,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
-  m_Sprite: {fileID: -1976161606452182943, guid: 63867051f7ccfca47863125c7d8ce593, type: 3}
+  m_Sprite: {fileID: 6410630589639772564, guid: ba65552b79c78db4aa982519f89aedaa, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -15296,12 +15621,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4464801575208771351}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -4.5096736, y: -5.379178, z: 34.690956}
+  m_LocalPosition: {x: 1.1990417, y: -2.5233715, z: -2946.4458}
   m_LocalScale: {x: 0, y: 0, z: 1}
   m_Children:
   - {fileID: 4464801575484390501}
-  m_Father: {fileID: 7213046468069183314}
-  m_RootOrder: 10
+  m_Father: {fileID: 1582990369}
+  m_RootOrder: 11
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &4464801575208771351
 GameObject:
@@ -15410,7 +15735,7 @@ MonoBehaviour:
   m_LightType: 1
   m_BlendStyleIndex: 0
   m_FalloffIntensity: 0.75
-  m_Color: {r: 1, g: 0, b: 0, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Intensity: 0
   m_LightVolumeOpacity: 0.2
   m_ApplyToSortingLayers: 00000000
@@ -15539,7 +15864,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
-  m_Sprite: {fileID: -1976161606452182943, guid: 63867051f7ccfca47863125c7d8ce593, type: 3}
+  m_Sprite: {fileID: 6410630589639772564, guid: ba65552b79c78db4aa982519f89aedaa, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -15558,12 +15883,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4464801575405713255}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -11.858715, y: -6.255806, z: 34.690956}
+  m_LocalPosition: {x: -6.1499996, y: -3.3999994, z: -2946.4458}
   m_LocalScale: {x: 0, y: 0, z: 1}
   m_Children:
   - {fileID: 4464801575144838165}
-  m_Father: {fileID: 7213046468069183314}
-  m_RootOrder: 15
+  m_Father: {fileID: 1582990369}
+  m_RootOrder: 13
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &4464801575405713255
 GameObject:
@@ -15599,7 +15924,7 @@ MonoBehaviour:
   m_LightType: 1
   m_BlendStyleIndex: 0
   m_FalloffIntensity: 0.75
-  m_Color: {r: 1, g: 0, b: 0, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Intensity: 0
   m_LightVolumeOpacity: 0.2
   m_ApplyToSortingLayers: 00000000
@@ -15672,7 +15997,7 @@ MonoBehaviour:
   m_LightType: 1
   m_BlendStyleIndex: 0
   m_FalloffIntensity: 0.75
-  m_Color: {r: 1, g: 0, b: 0, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Intensity: 0
   m_LightVolumeOpacity: 0.2
   m_ApplyToSortingLayers: 00000000
@@ -15776,7 +16101,7 @@ MonoBehaviour:
   m_LightType: 1
   m_BlendStyleIndex: 0
   m_FalloffIntensity: 0.75
-  m_Color: {r: 1, g: 0, b: 0, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Intensity: 0
   m_LightVolumeOpacity: 0.2
   m_ApplyToSortingLayers: 00000000
@@ -15867,7 +16192,7 @@ Transform:
   m_Children:
   - {fileID: 4464801576011274289}
   m_Father: {fileID: 7213046468069183314}
-  m_RootOrder: 9
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &4464801575754545987
 GameObject:
@@ -16087,7 +16412,7 @@ Transform:
   m_Children:
   - {fileID: 4464801576091948413}
   m_Father: {fileID: 7213046468069183314}
-  m_RootOrder: 17
+  m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &4464801575799698959
 GameObject:
@@ -16179,7 +16504,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
-  m_Sprite: {fileID: -1976161606452182943, guid: 63867051f7ccfca47863125c7d8ce593, type: 3}
+  m_Sprite: {fileID: 6410630589639772564, guid: ba65552b79c78db4aa982519f89aedaa, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -16198,12 +16523,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4464801575874768823}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -11.597965, y: -1.7443683, z: 34.690956}
+  m_LocalPosition: {x: -5.88925, y: 1.1114383, z: -2946.4458}
   m_LocalScale: {x: 0, y: 0, z: 1}
   m_Children:
   - {fileID: 4464801575615532229}
-  m_Father: {fileID: 7213046468069183314}
-  m_RootOrder: 16
+  m_Father: {fileID: 1582990369}
+  m_RootOrder: 14
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &4464801575874768823
 GameObject:
@@ -16251,12 +16576,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4464801575994546280}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -8.406, y: -6.5745096, z: 34.690956}
+  m_LocalPosition: {x: -2.6972847, y: -3.718703, z: -2946.4458}
   m_LocalScale: {x: 0, y: 0, z: 1}
   m_Children:
   - {fileID: 4464801575704460058}
-  m_Father: {fileID: 7213046468069183314}
-  m_RootOrder: 4
+  m_Father: {fileID: 1582990369}
+  m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &4464801575994546283
 SpriteRenderer:
@@ -16298,7 +16623,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
-  m_Sprite: {fileID: -1976161606452182943, guid: 63867051f7ccfca47863125c7d8ce593, type: 3}
+  m_Sprite: {fileID: 6410630589639772564, guid: ba65552b79c78db4aa982519f89aedaa, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -16508,7 +16833,7 @@ Transform:
   m_Children:
   - {fileID: 4464801575772559605}
   m_Father: {fileID: 7213046468069183314}
-  m_RootOrder: 13
+  m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &4464801576052243335
 GameObject:
@@ -16648,7 +16973,7 @@ MonoBehaviour:
   m_LightType: 1
   m_BlendStyleIndex: 0
   m_FalloffIntensity: 0.75
-  m_Color: {r: 1, g: 0, b: 0, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Intensity: 0
   m_LightVolumeOpacity: 0.2
   m_ApplyToSortingLayers: 00000000
@@ -16690,7 +17015,7 @@ MonoBehaviour:
   m_LightType: 1
   m_BlendStyleIndex: 0
   m_FalloffIntensity: 0.75
-  m_Color: {r: 1, g: 0, b: 0, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Intensity: 0
   m_LightVolumeOpacity: 0.2
   m_ApplyToSortingLayers: 00000000
@@ -16806,12 +17131,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4464801576330203660}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -9.629011, y: 0.8112581, z: 34.690956}
+  m_LocalPosition: {x: -3.9202957, y: 3.6670647, z: -2946.4458}
   m_LocalScale: {x: 0, y: 0, z: 1}
   m_Children:
   - {fileID: 4464801576576463230}
-  m_Father: {fileID: 7213046468069183314}
-  m_RootOrder: 5
+  m_Father: {fileID: 1582990369}
+  m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &4464801576330203663
 SpriteRenderer:
@@ -16853,7 +17178,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
-  m_Sprite: {fileID: -1976161606452182943, guid: 63867051f7ccfca47863125c7d8ce593, type: 3}
+  m_Sprite: {fileID: 6410630589639772564, guid: ba65552b79c78db4aa982519f89aedaa, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -16928,7 +17253,7 @@ Transform:
   m_Children:
   - {fileID: 4464801576619670713}
   m_Father: {fileID: 7213046468069183314}
-  m_RootOrder: 12
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &4464801576345755595
 GameObject:
@@ -17007,12 +17332,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4464801576525950192}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.016139507, y: -2.6743326, z: 34.690956}
+  m_LocalPosition: {x: 5.692576, y: 0.18147397, z: -2946.4458}
   m_LocalScale: {x: 0, y: 0, z: 1}
   m_Children:
   - {fileID: 4464801576247840642}
-  m_Father: {fileID: 7213046468069183314}
-  m_RootOrder: 7
+  m_Father: {fileID: 1582990369}
+  m_RootOrder: 10
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &4464801576525950195
 SpriteRenderer:
@@ -17054,7 +17379,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
-  m_Sprite: {fileID: -1976161606452182943, guid: 63867051f7ccfca47863125c7d8ce593, type: 3}
+  m_Sprite: {fileID: 6410630589639772564, guid: ba65552b79c78db4aa982519f89aedaa, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -17154,12 +17479,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4464801576570146628}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.8274145, y: -5.778519, z: 34.690956}
+  m_LocalPosition: {x: 6.53613, y: -2.9227126, z: -2946.4458}
   m_LocalScale: {x: 0, y: 0, z: 1}
   m_Children:
   - {fileID: 4464801576328162358}
-  m_Father: {fileID: 7213046468069183314}
-  m_RootOrder: 1
+  m_Father: {fileID: 1582990369}
+  m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &4464801576570146631
 SpriteRenderer:
@@ -17201,7 +17526,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
-  m_Sprite: {fileID: -1976161606452182943, guid: 63867051f7ccfca47863125c7d8ce593, type: 3}
+  m_Sprite: {fileID: 6410630589639772564, guid: ba65552b79c78db4aa982519f89aedaa, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -17227,7 +17552,7 @@ MonoBehaviour:
   m_LightType: 1
   m_BlendStyleIndex: 0
   m_FalloffIntensity: 0.75
-  m_Color: {r: 1, g: 0, b: 0, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Intensity: 0
   m_LightVolumeOpacity: 0.2
   m_ApplyToSortingLayers: 00000000
@@ -17697,22 +18022,13 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 6557253368923711006}
-  - {fileID: 4464801576570146630}
   - {fileID: 856857372817637526}
   - {fileID: 856857372688341785}
-  - {fileID: 4464801575994546282}
-  - {fileID: 4464801576330203662}
-  - {fileID: 856857374149350895}
-  - {fileID: 4464801576525950194}
-  - {fileID: 4464801575054236357}
   - {fileID: 4464801575754545985}
-  - {fileID: 4464801575208771349}
   - {fileID: 856857373378047318}
   - {fileID: 4464801576345755593}
   - {fileID: 4464801576052243333}
   - {fileID: 4464801575054160735}
-  - {fileID: 4464801575405713253}
-  - {fileID: 4464801575874768821}
   - {fileID: 4464801575799698957}
   m_Father: {fileID: 0}
   m_RootOrder: 13

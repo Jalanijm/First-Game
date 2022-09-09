@@ -80,6 +80,10 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1231710065841313220, guid: ab5d66a20b28ec44bbd5b41903e5dabd, type: 3}
+      propertyPath: TimeBtwShot
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 1231710065841313220, guid: ab5d66a20b28ec44bbd5b41903e5dabd, type: 3}
       propertyPath: bulletsAmount
       value: 8
       objectReference: {fileID: 0}

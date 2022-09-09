@@ -32,7 +32,7 @@ public class playerSprint : MonoBehaviour
 
         if (staminaBar.value < 120 && !Input.GetMouseButton(1) && !Input.GetKey(KeyCode.Space) && PauseMenu.GameIsPaused == false && PauseMenu.PlayerIsDead == false)
         {
-            staminaBar.value += 0.4f;
+            staminaBar.value += 0.5f;
         }
 
 

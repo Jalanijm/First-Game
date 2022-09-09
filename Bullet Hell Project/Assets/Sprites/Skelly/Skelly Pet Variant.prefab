@@ -84,6 +84,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 3274472207838848177, guid: 972e98323dc7502408ec66a33a794280, type: 3}
     - target: {fileID: 3830117140166467831, guid: b6a77c2350b16d449847158f21ca4571, type: 3}
+      propertyPath: SetRandomSpeed
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3830117140166467831, guid: b6a77c2350b16d449847158f21ca4571, type: 3}
       propertyPath: startTimeBtwShots
       value: 999999
       objectReference: {fileID: 0}

@@ -11,23 +11,19 @@ public class CheckShotgun : MonoBehaviour
     
     void Start()
     {
-       
-    }
-
-    
-    void Update()
-    {
-        if(PlayerPrefs.GetInt("Stage 1") == 1 && PlayerPrefs.GetInt("Goal 1") == 0)
+        if (PlayerPrefs.GetInt("Stage 1") == 1 && PlayerPrefs.GetInt("Goal 1") == 0)
         {
             ShotgunUnlock.SetActive(true);
             ShotgunLocked.SetActive(false);
             ARUnlocked.SetActive(false);
-        } else if (PlayerPrefs.GetInt("Goal 1") == 1)
+        }
+        else if (PlayerPrefs.GetInt("Goal 1") == 1)
         {
             ShotgunUnlock.SetActive(false);
             ARUnlocked.SetActive(true);
             ShotgunLocked.SetActive(false);
-        } else if (PlayerPrefs.GetInt("Stage 1") == 0 && PlayerPrefs.GetInt("Goal 1") == 0)
+        }
+        else if (PlayerPrefs.GetInt("Stage 1") == 0 && PlayerPrefs.GetInt("Goal 1") == 0)
         {
             ShotgunUnlock.SetActive(false);
             ARUnlocked.SetActive(false);

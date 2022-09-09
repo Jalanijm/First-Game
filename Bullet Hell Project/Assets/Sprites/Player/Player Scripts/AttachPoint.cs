@@ -29,6 +29,15 @@ public class AttachPoint : MonoBehaviour
 
     private void Start()
     {
+        if (PlayerPrefs.GetInt("Stage 2") == 1)
+        {
+            MaxHitpoints = 5;
+        }
+        else
+        {
+            MaxHitpoints = 4;
+        }
+
         //Hitpoints
         Hitpoints = MaxHitpoints;
         healthBar.SetMaxHealth(MaxHitpoints);
@@ -88,7 +97,7 @@ public class AttachPoint : MonoBehaviour
         //Sprint
         if (isRunning)
         {
-           moveSpeed = 12f;
+           moveSpeed = 9.5f;
         } else
         {
             moveSpeed = 5f;
@@ -100,14 +109,6 @@ public class AttachPoint : MonoBehaviour
         }else
         {
             Shield.SetActive(false);
-        }
-
-        if(PlayerPrefs.GetInt("Stage 2") == 1)
-        {
-            MaxHitpoints = 7;
-        } else
-        {
-            MaxHitpoints = 5;
         }
 
     }
@@ -128,7 +129,7 @@ public class AttachPoint : MonoBehaviour
             ParticleSystem e = Instantiate(DamageEffect);
             e.transform.position = body.transform.position;
         }
-        if (other.CompareTag("HpUp"))
+        if (other.CompareTag("HpUp") && Hitpoints < MaxHitpoints)
         {
             Heal(1);
         }

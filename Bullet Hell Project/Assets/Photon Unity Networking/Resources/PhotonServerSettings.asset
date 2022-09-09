@@ -15,7 +15,7 @@ MonoBehaviour:
   AppID: 91eb1523-fc74-4c3e-8131-0da4eeea6b3d
   VoiceAppID: 
   ChatAppID: 
-  HostType: 1
+  HostType: 3
   PreferredRegion: 0
   EnabledRegions: -1
   Protocol: 0
@@ -26,7 +26,7 @@ MonoBehaviour:
   EnableLobbyStatistics: 0
   PunLogging: 0
   NetworkLogging: 1
-  RunInBackground: 1
+  RunInBackground: 0
   RpcList:
   - Chat
   - ColorRpc

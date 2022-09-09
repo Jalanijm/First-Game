@@ -5535,6 +5535,8 @@ MonoBehaviour:
   nextWaypointDistance: 0.5
   Hitpoints: 4
   MaxHitpoints: 4
+  SlimeDeath: 1
+  SetRandomSpeed: 1
   ValueText: {fileID: 0}
   healthBar: {fileID: 6590955677961305810}
   enemyGFX: {fileID: 6590955678488200145}
@@ -5544,6 +5546,7 @@ MonoBehaviour:
   projectile: {fileID: 6854497552086024433, guid: d1a705340502f7c43a5f7a25786491a4, type: 3}
   Tracker: {fileID: 3547377685737283991, guid: 46eda82b100ce9749a6418cf8fdd126d, type: 3}
   Player: []
+  DeathPop: {fileID: 771480438758002757, guid: afdcb793bb0bd734d8574e80bb30cf7b, type: 3}
 --- !u!114 &6803163284610963063
 MonoBehaviour:
   m_ObjectHideFlags: 0

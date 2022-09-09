@@ -14,6 +14,8 @@ public class SkellyAI : MonoBehaviour
     public int Hitpoints;
     public int MaxHitpoints = 7;
 
+    public int SetRandomSpeed = 0;
+
     public Text ValueText;
     public HealthBar healthBar;
 
@@ -53,6 +55,12 @@ public class SkellyAI : MonoBehaviour
         healthBar.SetMaxHealth(MaxHitpoints);
 
         timeBtwShots = startTimeBtwShots;
+
+        if (SetRandomSpeed == 1)
+        {
+            speed = Random.Range(400f, 750f);
+            startTimeBtwShots = Random.Range(2, 3);
+        }
     }
 
     public void FindTarget()

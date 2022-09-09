@@ -14,6 +14,8 @@ public class EyeSlime : MonoBehaviour
     public int Hitpoints;
     public int MaxHitpoints = 7;
 
+    public int SetRandomSpeed = 0;
+
     private float setSpeed;
 
     public Text ValueText;
@@ -54,6 +56,14 @@ public class EyeSlime : MonoBehaviour
         timeBtwShots = startTimeBtwShots;
 
         setSpeed = speed;
+
+        if (SetRandomSpeed == 1)
+        {
+            speed = Random.Range(800f, 1000f);
+            startTimeBtwShots = Random.Range(1.4f, 2.7f);
+        }
+
+
     }
 
     public void FindTarget()
@@ -81,6 +91,8 @@ public class EyeSlime : MonoBehaviour
             Destroy(gameObject);
         }
     }
+
+    
 
     //Path Find
     void UpdatePath()

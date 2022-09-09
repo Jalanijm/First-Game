@@ -7236,10 +7236,10 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 24300002, guid: bace9b6145f7aff49a14e7671701ac78, type: 2}
-  m_audioClip: {fileID: 8300000, guid: 0caca404a1b1e7f4090a63e4a17a0316, type: 3}
+  m_audioClip: {fileID: 8300000, guid: cdca37d49e9c8074aa6819858e436856, type: 3}
   m_PlayOnAwake: 0
-  m_Volume: 0.739
-  m_Pitch: 1
+  m_Volume: 0.4
+  m_Pitch: 0.8
   Loop: 1
   Mute: 0
   Spatialize: 0
@@ -12407,6 +12407,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Crate
       objectReference: {fileID: 0}
+    - target: {fileID: 5718376539174900990, guid: dbc480a2f1044a545be4751dcef9971a, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5718376539174900991, guid: dbc480a2f1044a545be4751dcef9971a, type: 3}
+      propertyPath: Drop
+      value: 
+      objectReference: {fileID: 3274472207838848177, guid: 972e98323dc7502408ec66a33a794280, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: dbc480a2f1044a545be4751dcef9971a, type: 3}
 --- !u!1 &2140691022

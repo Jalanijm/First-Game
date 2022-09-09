@@ -121,10 +121,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   target: {fileID: 0}
-  speed: 400
-  nextWaypointDistance: 2.3
+  speed: 650
+  nextWaypointDistance: 0.6
   Hitpoints: 6
   MaxHitpoints: 6
+  SetRandomSpeed: 1
   ValueText: {fileID: 0}
   healthBar: {fileID: 3830117140609518341}
   enemyGFX: {fileID: 3830117141328281514}
